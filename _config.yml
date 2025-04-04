@@ -97,7 +97,7 @@ theme_mode: # [light | dark]
 # e.g. 'https://cdn.com'
 cdn: 
 # the avatar on sidebar, support local or CORS resources
-avatar: <img src="https://github.com/raghugorthy/private-repo/blob/main/test.png" alt="My Image" />
+avatar: <img src="https://www.facebook.com/photo/?fbid=4742004369185580&set=a.120243501361713" alt="My Image" />
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
