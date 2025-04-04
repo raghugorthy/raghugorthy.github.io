@@ -97,7 +97,7 @@ theme_mode: # [light | dark]
 # e.g. 'https://cdn.com'
 cdn: 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://drive.google.com/file/d/13KXagu7AdeVIiBqnWQg2jYzzlpw49yke/view?usp=drive_link
+avatar: https://images.pexels.com/photos/28128876/pexels-photo-28128876/free-photo-of-stunning-coastal-cliff-with-turquoise-waves.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
