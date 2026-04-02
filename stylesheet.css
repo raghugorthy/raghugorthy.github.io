@@ -41,7 +41,6 @@ a:hover {
   max-width: 300px;
   height: auto;
 }
-
 @media (max-width: 600px) {
   .profile-pic {
     max-width: 180px;
